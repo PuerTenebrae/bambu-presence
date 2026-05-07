@@ -55,3 +55,4 @@ Luego coloca `config.ini` en la misma carpeta del ejecutable.
 - Si `bambu-studio.exe` está corriendo, activa el Rich Presence.
 - Si se cierra, limpia el presence y sigue en espera.
 - Cuando se vuelve a abrir, lo reactiva automáticamente.
+# bambu-presence
